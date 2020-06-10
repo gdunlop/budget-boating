@@ -32,6 +32,8 @@ Avoid at all costs *unless* you find a very good example that you are prepared t
 # My personal experience
 I looked at classified ads on eBay and Gumtree, as well as brokerage boats. I put a 10% deposit on a brokerage boat in the North of England, but unfortunately I made the mistake of paying this directly to the owner via a 'friends and family' payment. When it became apparent there were some issues with the engine I pulled out but the seller refused to return even a portion of the deposit. Caveat emptor...
 
-I ended up buying a Fletcher Arrowhawk 180 from a private seller - a retired guy who bought and sold Fletchers. Despite being nearly 30 years old, it had a brand new roller trailer worth £2,500 and some service history for the Mercury 150hp 2-stroke outboard. Best of all it had been used as a ski boat on fresh water, and had numerous upgrades including a new fuel system (tank, pipes, water separating filter) and refurbished interior.
+![Fletcher Arrowhawk 180 bow rider](/budget-boating/images/fletcher.jpg)
+
+I ended up buying a Fletcher Arrowhawk 180 from a private seller - a retired guy who bought and sold Fletchers. Despite being nearly 30 years old, it had a brand new roller trailer worth £2,500 and some service history for the Mercury 150hp 2-stroke outboard. Best of all it had been used as a ski boat on fresh water, and had numerous upgrades including a new fuel system (tank, pipes, water separating filter) and refurbished interior. It's a rare *bow rider* model - a style which is much more common in modern boats.
 
 After purchase I discovered a water leak in the outboard that cost £250 to repair. This was my own fault as I didn't inspect the outboard properly or know what problems to look out for.
