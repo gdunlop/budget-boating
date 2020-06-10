@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to budget boating"
-date:   2020-06-01 15:38:00 +0100
+date:   2020-05-18 15:38:00 +0100
 categories:
 ---
 *A blog for anyone looking to get into powerboating on a budget*
@@ -22,6 +22,9 @@ I recommend looking at classified ads where the owner is likely to have given a 
 Boat brokers and specialist boating sites are another option. Brokers sell boats on behalf of a customer - brokerage boats - and may also have trade-ins. At our budget these will often be *sold as seen* with no warranty so you need to inspect carefully before parting with your cash.
 
 # Beware the project boat
+
+![Project boat](/budget-boating/images/project.png)
+
 Front gardens and boat yards across the country are littered with project boats. Probably bought at auction with the best of intentions, they may have been sitting unloved for years.
 
 Alternatively they've become a money pit for the current owner but just need "a few little things" to finish off. That may include small things like fitting a new engine.
@@ -34,6 +37,6 @@ I looked at classified ads on eBay and Gumtree, as well as brokerage boats. I pu
 
 ![Fletcher Arrowhawk 180 bow rider](/budget-boating/images/fletcher.jpg)
 
-I ended up buying a Fletcher Arrowhawk 180 from a private seller - a retired guy who bought and sold Fletchers. Despite being nearly 30 years old, it had a brand new roller trailer worth £2,500 and some service history for the Mercury 150hp 2-stroke outboard. Best of all it had been used as a ski boat on fresh water, and had numerous upgrades including a new fuel system (tank, pipes, water separating filter) and refurbished interior. It's a rare *bow rider* model - a style which is much more common in modern boats.
+I ended up buying a Fletcher Arrowhawk 180 from a private seller - a retired guy who bought and sold Fletchers. Despite being nearly 30 years old, it had a brand new roller trailer with a receipt for £2,500 and some service history with the outboard. Best of all it had been used as a ski boat on fresh water, and had numerous upgrades including a new fuel system (tank, pipes, water separating filter) and refurbished interior. It's a rare *bow rider* model - a style which is much more common in modern boats.
 
 After purchase I discovered a water leak in the outboard that cost £250 to repair. This was my own fault as I didn't inspect the outboard properly or know what problems to look out for.
