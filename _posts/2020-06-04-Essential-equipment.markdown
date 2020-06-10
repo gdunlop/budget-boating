@@ -2,13 +2,13 @@
 layout: post
 title:  "Essential equipment"
 date:   2020-06-04 17:02:00 +0100
-categories: boating personal
+categories:
 ---
 *"Be prepared" is the motto so here is some advice on the essential equipment for safe boating in inshore waters*
 
 # Safety kit
 
-![Safety kit](../images/safety.png)
+![Safety kit](/budget-boating/images/safety.png)
 
 - Kill cord
 - Spare key with another kill cord
@@ -38,7 +38,7 @@ If I ever planned to use the boat alone it would be sensible to get a Personal L
 # Toolkit
 I carry a small toolkit and some spares on all trips. If you are unlucky enough to break down at least you can attempt a repair before asking for help.
 
-![Essential tools](../images/tools.png)
+![Essential tools](/budget-boating/images/tools.png)
 
 - Socket set including spark plug remover
 - Screwdrivers
