@@ -6,7 +6,7 @@ categories: boating personal
 ---
 *It's wise to think about boat storage before you purchase a boat, as storage costs on or off the water can quickly add up.*
 
-![Dry stack](/images/stack.png)
+![Dry stack](../images/stack.png)
 
 # Storage options
 You can buy a very decent budget boat for £5,000 or less. Choose to berth in a marina and you could end up paying that amount again *every year* just to store it. That's before any other costs are taken into consideration.
