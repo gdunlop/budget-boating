@@ -23,7 +23,7 @@ So it pays to look at various storage options and pick one that satisfies your r
 # Cost comparison
 Prices are usually based on 'length overall' (LOA) so if the boat is staying on a trailer you need to pay for the combined length from the tip of the tow hitch.
 
-This table shows the cost for each option based on a 6 month term for my boat at various local facilities (valid June 2020)
+This table shows the cost for each option based on a 6 month term for my boat (7.4m LOA) at various local facilities (valid June 2020)
 
 | Option | Cost |
 | ----- | ----- |
