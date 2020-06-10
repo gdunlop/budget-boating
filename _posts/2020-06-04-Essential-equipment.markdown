@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Essential equipment"
-date:   2020-06-04 17:02:00 +0100
+date:   2020-06-10 17:02:00 +0100
 categories:
 ---
 *"Be prepared" is the motto so here is some advice on the essential equipment for safe boating in inshore waters*
