@@ -4,16 +4,15 @@ title:  "Budget boat choices"
 date:   2020-05-30 15:38:00 +0100
 categories:
 ---
-*You pays your money, you takes your choice*
+*What floats your boat?*
 
-# Decisions, decisions...
+# Buying considerations
 
-Factors to consider
+There are many factors to consider when you start looking for a budget boat:-
+- Do you want a speedboat, day boat, RIB, walkaround...?
+- Inboard or outboard engine?
+- What type of hull profile?
+- How many passengers do you need to accommodate?
+- Where will you store it and launch it?
 
-| Item | Choices |
-| ----- | ----- |
-| Style | Speedboat, day boat, RIB, walkaround... |
-| Length | 14 - 23ft so it fits on a trailer |
-| Engine | Inboard or outboard? Petrol or diesel? One engine or two? |
-| Hull profile | Planing hulls come in various profiles |
-| Accommodation | A small cabin might be possible in our budget |
+The last point is particularly important and I cover this in a separate article on boat storage options and costs.

@@ -7,9 +7,9 @@ categories:
 *A blog for anyone looking to get into powerboating on a budget*
 
 # How budget is budget?
-I set myself a budget of £5,000 for my first boat including a roadworthy trailer. You may find something decent for a lot less than this, but equally you may end up with a boat load of problems.
+I set myself a budget of £5,000 for my first boat including a roadworthy trailer. For this amount you can find something in the 14-20ft range with service history and perhaps some recent upgrades or improvements.
 
-For this amount you're more likely to find something with service history and perhaps some recent upgrades or improvements.
+You can obviously spend a lot more than this to get a newer or bigger boat but that would be stretching the budget part of 'budget boating'.
 
 # New or used?
 Needless to say given this budget you will be looking at used boats.
@@ -29,7 +29,7 @@ Front gardens and boat yards across the country are littered with project boats.
 
 Alternatively they've become a money pit for the current owner but just need "a few little things" to finish off. That may include small things like fitting a new engine.
 
-Avoid at all costs *unless* you find a very good example that you are prepared to put a lot of work - and cash - into.
+Avoid project boats *unless* you find a very good example that you are prepared to put a lot of work - and cash - into.
 
 
 # My personal experience
