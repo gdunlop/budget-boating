@@ -28,7 +28,7 @@ twitter_username: grahamdunlop
 github_username:  gdunlop
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
