@@ -26,6 +26,7 @@ baseurl: "/budget-boating" # the subpath of your site, e.g. /blog
 url: "https://gdunlop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: grahamdunlop
 github_username:  gdunlop
+permalink: /:title/
 
 # Build settings
 theme: minima

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Welcome to budget boating"
 date:   2020-05-18 15:38:00 +0100
 categories:
@@ -25,9 +25,7 @@ Boat brokers and specialist boating sites are another option. Brokers sell boats
 
 ![Project boat](/budget-boating/images/project.png)
 
-Front gardens and boat yards across the country are littered with project boats. Probably bought at auction with the best of intentions, they may have been sitting unloved for years.
-
-Alternatively they've become a money pit for the current owner but just need "a few little things" to finish off. That may include small things like fitting a new engine.
+Front gardens and boat yards across the country are littered with project boats. Probably bought at auction with the best of intentions, they may have been sitting unloved for years. Alternatively they've become a money pit for the current owner but just need "a few little things" to finish off. That may include small things such as installing a new engine...
 
 Avoid project boats *unless* you find a very good example that you are prepared to put a lot of work - and cash - into.
 

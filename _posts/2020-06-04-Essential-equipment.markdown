@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Essential equipment"
 date:   2020-06-10 17:02:00 +0100
 categories:

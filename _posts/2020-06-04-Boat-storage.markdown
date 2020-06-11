@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Boat storage options and costs"
 date:   2020-06-04 15:38:00 +0100
 categories:

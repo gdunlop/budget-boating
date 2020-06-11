@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Budget boat choices"
 date:   2020-05-30 15:38:00 +0100
 categories:
@@ -15,4 +15,49 @@ There are many factors to consider when you start looking for a budget boat:-
 - How many passengers do you need to accommodate?
 - Where will you store it and launch it?
 
-The last point is particularly important and I cover this in a separate article on boat storage options and costs.
+The last point is particularly important as storage is an ongoing cost. See this post on [boat storage options]({{site.baseurl}}/Boat-storage).
+
+# Outboards
+
+Outboard motors are purpose-designed and can pack a lot of power into a relatively small space. They draw in water through the leg to cool the engine and have a hydraulic 'tilt and trim' mechanism. This allows you to lift the outboard leg so it's completely out of the water. Exhaust gases exit down the leg and out through the propeller.
+
+Outboards are mainly 4-stroke petrol these days - they have valve timing gear, cambelts and a wet sump like a modern car engine. Many 2-stroke outboards are still around but few manufacturers make them due to current emissions standards. Special 2-stroke oil needs to be mixed with the petrol but 'oil injection' systems on some outboards can do this automatically from a remote tank.
+
+![Mercury outboard engine](/budget-boating/images/outboard.png)
+
+Budget boaters may well end up with a 2-stroke outboard as modern 4-strokes are expensive machines. My boat has a 1992 Mercury Blackmax - a 2.5 litre V6 2-stroke with oil injection. It has carbs rather than fuel injection, and is rated at 150HP.
+
+Pros associated with outboards:-
+- Designed for marine use
+- Can tilt completely out of the water
+- Relatively easy to 're-engine' just lift off and attach a new outboard
+- High power to weight ratio, especially from larger (older) 2-strokes
+- Easy to maintain (especially 2-strokes)
+- Don't take up space inside the boat
+
+Outboards are prone to theft so make sure you fit a good outboard lock.
+
+# Inboards
+
+An inboard engine is installed inside the boat, connecting to a sterndrive or outdrive housing the propeller and tilt and trim mechanism. Mechanically speaking, this is a lot more complex than an outboard, and it cannot be tilted completely out of the water.
+
+![Sterndrive unit on an inboard powered boat](/budget-boating/images/sterndrive.jpg)
+
+Inboard engines are often petrol or diesel car engines adapted for marine use. Cooling is provided directly via water drawn through the sterndrive - *raw water cooling* - or indirectly by including a heat exchanger in the cooling circuit. Exhaust is either fed via the sterndrive and exits through the prop like an outboard, or uses through-hull exhaust pipes.
+
+Pros associated with inboards:-
+- Harder to steal than an outboard
+- Diesel engines can be more economical than petrol but increased maintenance costs may cancel this out
+- I can't think of anything else. They are more complex, significantly heavier, harder to maintain and take up space inside the boat
+
+# Running costs
+
+Annual recurring costs:-
+- Insurance (essential)
+- Breakdown cover (optional)
+- [Boat storage](({{site.baseurl}}/Boat-storage))
+
+Other costs:-
+- Fuel (and 2-stroke oil if you have a 2-stroke)
+- Maintenance
+- Mooring/short stay charges on trips
