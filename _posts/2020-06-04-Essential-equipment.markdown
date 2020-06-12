@@ -4,9 +4,9 @@ title:  "Essential equipment"
 date:   2020-06-10 17:02:00 +0100
 categories:
 ---
-*"Be prepared" is the motto so here is some advice on the essential equipment for safe boating in inshore waters*
+*Advice on the essential equipment for safe boating in inshore waters*
 
-# Safety kit
+## Be prepared
 
 ![Safety kit](/budget-boating/images/safety.png)
 
@@ -23,7 +23,9 @@ For a small boat used in sheltered waters the following equipment is a sensible 
 - Paper charts and compass
 - Pair of oars. A boat up to 5 or 6 metres can be moved (slowly) if you sit at the bow and take turns paddling either side
 
-# Grab bag
+Check out the [safety guidance from the RNLI](https://rnli.org/safety/choose-your-activity/yacht-sailing-and-motorboating#).
+
+## Grab bag
 Have a dry bag packed with the following kit:-
 - Backup VHF handheld radio
 - Spare mobile phone
@@ -34,7 +36,7 @@ Have a dry bag packed with the following kit:-
 - Suncream
 - Hats
 
-# Toolkit
+## Toolkit
 A modest toolkit and basic spares may get you home without having to call for help.
 
 ![Essential tools](/budget-boating/images/tools.png)
@@ -53,7 +55,7 @@ My toolkit contains:-
 - Voltmeter
 - Fine sandpaper for cleaning electrical connections
 
-# Spares
+## Spares
 I don't go overboard with spares - no pun intended. Since my boat only has a single battery for starting and powering onboard equipment, I invested in a portable jump pack. Starting a large 2-stroke outboard with high compression takes a lot of battery power.
 
 - Fuses for internal boat electrics and outboard
@@ -62,7 +64,7 @@ I don't go overboard with spares - no pun intended. Since my boat only has a sin
 - Spare fuel and 2-stroke oil
 - 600A jump pack in case of flat battery. Can be used to charge phones/VHF radios and also has a torch built in
 
-# Fuel
+## Fuel
 My boat has a 60 litre fuel tank and a separate 2-stroke oil tank.
 
 I generally fill the tank on land from jerry cans rather than using marina facilities. Spare fuel is carried in 5 litre plastic cans, stored in the ski locker to keep the weight low.

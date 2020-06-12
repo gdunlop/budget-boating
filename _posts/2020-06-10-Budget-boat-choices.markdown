@@ -6,16 +6,18 @@ categories:
 ---
 *What floats your boat?*
 
-# Buying considerations
+## Buying considerations
 
 There are many factors to consider when you start looking for a budget boat:-
 - Do you want a speedboat, day boat, RIB, walkaround...?
-- Inboard or outboard engine?
+- Outboard or inboard engine?
 - What type of hull profile?
 - How many passengers do you need to accommodate?
 - Where will you store it and launch it?
 
 The last point is particularly important as storage is an ongoing cost. See this post on [boat storage options]({{site.baseurl}}/Boat-storage).
+
+## Inboard or outboard?
 
 # Outboards
 
@@ -49,15 +51,3 @@ Pros associated with inboards:-
 - Harder to steal than an outboard
 - Diesel engines can be more economical than petrol but increased maintenance costs may cancel this out
 - I can't think of anything else. They are more complex, significantly heavier, harder to maintain and take up space inside the boat
-
-# Running costs
-
-Annual recurring costs:-
-- Insurance (essential)
-- Breakdown cover (optional)
-- [Boat storage](({{site.baseurl}}/Boat-storage))
-
-Other costs:-
-- Fuel (and 2-stroke oil if you have a 2-stroke)
-- Maintenance
-- Mooring/short stay charges on trips
