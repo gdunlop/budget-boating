@@ -6,8 +6,7 @@ categories:
 ---
 *What floats your boat?*
 
-## Buying considerations
-
+# Buying considerations
 There are many factors to consider when you start looking for a budget boat:-
 - Do you want a speedboat, day boat, RIB, walkaround...?
 - Outboard or inboard engine?
@@ -15,42 +14,30 @@ There are many factors to consider when you start looking for a budget boat:-
 - How many passengers do you need to accommodate?
 - Where will you store it and launch it?
 
-The last point is particularly important as storage is an ongoing cost. See this post on [boat storage options]({{site.baseurl}}/Boat-storage).
+Some of these topics are quite involved and are covered in separate posts:-
 
-## Inboard or outboard?
+[Outboards vs inboards]({{site.baseurl}}/Outboard-inboard)
 
-# Outboards
+[Boat storage options]({{site.baseurl}}/Boat-storage)
 
-Outboard motors are purpose-designed and can pack a lot of power into a relatively small space. They draw in water through the leg to cool the engine and have a hydraulic 'tilt and trim' mechanism. This allows you to lift the outboard leg so it's completely out of the water. Exhaust gases exit down the leg and out through the propeller.
+# The hull truth
+Hull shape is important as this can have a big effect on comfort and handling.
 
-Outboards are mainly 4-stroke petrol these days - they have valve timing gear, cambelts and a wet sump like a modern car engine. Many 2-stroke outboards are still around but few manufacturers make them due to current emissions standards. Special 2-stroke oil needs to be mixed with the petrol but 'oil injection' systems on some outboards can do this automatically from a remote tank.
+My boat (top image) has an older style V-profile with pronounced chines. This looks sleek and makes for exciting cornering but results in a hard ride - the concave shape is less effective at pushing water out of the way. Contrast this with a more modern "deep V" hull with a convex profile (bottom image). This pushes water out of the way making for softer landings.
 
-![Mercury outboard engine](/budget-boating/images/outboard.png)
+![Concave hull profile with pronounced chines](/budget-boating/images/concave.png) ![Deep V hull with convex profile](/budget-boating/images/convex.png)
 
-Budget boaters may well end up with a 2-stroke outboard as modern 4-strokes are expensive machines. My boat has a 1992 Mercury Blackmax - a 2.5 litre V6 2-stroke with oil injection. It has carbs rather than fuel injection, and is rated at 150HP.
+# Style council
+When it comes to shape and style of boat this is very much down to personal preference.
 
-Pros associated with outboards:-
-- Designed for marine use
-- Can tilt completely out of the water
-- Relatively easy to 're-engine' just lift off and attach a new outboard
-- High power to weight ratio, especially from larger (older) 2-strokes
-- Easy to maintain (especially 2-strokes)
-- Don't take up space inside the boat
+RIBs have a lot of fans - they are practically unsinkable and certainly more durable than a boat with a full fibreglass hull. However you sit (or stand) quite high up in a RIB so make sure you are happy with feeling this exposed.
 
-Outboards are prone to theft so make sure you fit a good outboard lock.
+![Sitting on a RIB](/budget-boating/images/rib.jpg)
 
-# Inboards
+I bought a speedboat as I wanted to sit *in* the boat rather than *on* it, and I liked the retro style. As it's a *bowrider* there's space for two passengers in the bow - the kids love it.
 
-An inboard engine is installed inside the boat, connecting to a sterndrive or outdrive housing the propeller and tilt and trim mechanism. Mechanically, this is a lot more complex than an outboard, and the maintenance costs are therefore likely to be higher.
+![Fletcher Arrowhawk 180](/budget-boating/images/fletcher-sml.jpg)
 
-![Sterndrive unit on an inboard powered boat](/budget-boating/images/sterndrive.jpg)
+Walkarounds are also common - and very practical. As the name implies, you have good access to all areas of the deck
 
-Inboard engines are often petrol or diesel car engines adapted for marine use. Cooling is provided directly via water drawn through the sterndrive - *raw water cooling* - or indirectly by including a heat exchanger in the cooling circuit. Exhaust is either fed via the sterndrive and exits through the prop like an outboard, or uses through-hull exhaust pipes.
-
-Pros associated with inboards:-
-- Less vulnerable to theft than outboards
-- Diesel engines can be more economical than petrol, however the increased maintenance costs likely cancel this out
-- Car-derived engines may be more familiar to the home mechanic
-- Petrolheads will love the sound of a V8 big block engine with through-hull exhausts
-
-For the budget boater there are quite a few drawbacks with inboards - they are more complex, significantly heavier and take up valuable space inside the boat.
+![Walkaround style](/budget-boating/images/walkaround.jpg)

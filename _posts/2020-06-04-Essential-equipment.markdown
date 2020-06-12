@@ -68,3 +68,6 @@ I don't go overboard with spares - no pun intended. Since my boat only has a sin
 My boat has a 60 litre fuel tank and a separate 2-stroke oil tank.
 
 I generally fill the tank on land from jerry cans rather than using marina facilities. Spare fuel is carried in 5 litre plastic cans, stored in the ski locker to keep the weight low.
+
+## Links
+Stu at Dangar Marine has a huge number of videos on his Youtube channel. This one on [breaking down in a boat on the water](https://www.youtube.com/watch?v=5xBYobX9fHg) helped me assemble my toolkit and spares.

@@ -44,11 +44,19 @@ Dry stacks and moorings may be some distance from the main body of water and res
 If you keep the boat at home you may still need to pay to launch. Some slipways including the one at Hythe Marina are free to use but you must pay for parking.
 
 ## Prepare to launch
-A marina berth or mooring means you can turn up and go. Same goes for a dry stack but you have to give advance warning so your boat can be prepared and launched ready for your arrival. Unless you are in a marina, you will still need to check the tides as many dry stacks and moorings are in tidal or semi-tidal locations.
+A marina berth or mooring means you can 'park and ride'. Dry stacks provide the same level of convenience though you have to book in advance so your boat can be launched ready for your arrival. Unless you are in a marina, you will still need to check tides as many dry stacks and moorings are in tidal or semi-tidal locations.
 
-Smaller boats are relatively easy to launch and recover from a trailer but this does need practice. Many slipways are busy so you need to launch as quickly as possible and park your trailer out of the way. My recommendation is find a quiet slipway with a nearby pontoon and practice launch and recovery with a second pair of hands to help.
+Smaller boats are relatively easy to launch and recover from a trailer but this does need practice. Many slipways are busy so you need to launch as quickly as possible and park your trailer out of the way.
+
+![Slipway with adjacent pontoon](/budget-boating/images/slipway.jpg)
+
+Find a quiet slipway like this with an adjacent pontoon. This makes the process of launching and retrieval quite simple even if you are on your own. Another pair of hands always makes things easier.
 
 ## Budget option
 Boat parks give you quick access to the water and facilities and remove the need to tow back and forth from home. Launching and recovery from a trailer is still needed of course but this is a good skill to practice.
 
-I chose this option as it is relatively affordable and allows me to flush my outboard with fresh water after every trip.
+I chose this option as it is relatively affordable at the equivalent of £2 per day over a 6 month period. Fresh water is available to flush my outboard after every trip, and the boat can be left on the trailer without the need to attach ratchet straps and lightboard.
+
+## Links
+A nice video from Stu at Dangar Marine showing [how to launch and recover a trailer boat](
+https://www.youtube.com/watch?v=svFJeG6BqLo)
