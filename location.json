@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Description": "Calshot Spit",
+        "marker-size": "medium",
+        "marker-symbol": "pitch",
+        "marker-color": "#f00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.307832,
+          50.819530
+        ]
+      }
+    }
+  ]
+}
