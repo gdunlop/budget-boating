@@ -51,5 +51,6 @@ Pros associated with inboards:-
 - Less vulnerable to theft than outboards
 - Diesel engines can be more economical than petrol, however the increased maintenance costs likely cancel this out
 - Car-derived engines may be more familiar to the home mechanic
+- Petrolheads will love the sound of a V8 big block engine with through-hull exhausts
 
 For the budget boater there are quite a few drawbacks with inboards - they are more complex, significantly heavier and take up valuable space inside the boat.
