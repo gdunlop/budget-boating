@@ -41,13 +41,15 @@ Outboards are prone to theft so make sure you fit a good outboard lock.
 
 # Inboards
 
-An inboard engine is installed inside the boat, connecting to a sterndrive or outdrive housing the propeller and tilt and trim mechanism. Mechanically speaking, this is a lot more complex than an outboard, and it cannot be tilted completely out of the water.
+An inboard engine is installed inside the boat, connecting to a sterndrive or outdrive housing the propeller and tilt and trim mechanism. Mechanically, this is a lot more complex than an outboard, and the maintenance costs are therefore likely to be higher.
 
 ![Sterndrive unit on an inboard powered boat](/budget-boating/images/sterndrive.jpg)
 
 Inboard engines are often petrol or diesel car engines adapted for marine use. Cooling is provided directly via water drawn through the sterndrive - *raw water cooling* - or indirectly by including a heat exchanger in the cooling circuit. Exhaust is either fed via the sterndrive and exits through the prop like an outboard, or uses through-hull exhaust pipes.
 
 Pros associated with inboards:-
-- Harder to steal than an outboard
-- Diesel engines can be more economical than petrol but increased maintenance costs may cancel this out
-- I can't think of anything else. They are more complex, significantly heavier, harder to maintain and take up space inside the boat
+- Less vulnerable to theft than outboards
+- Diesel engines can be more economical than petrol, however the increased maintenance costs likely cancel this out
+- Car-derived engines may be more familiar to the home mechanic
+
+For the budget boater there are quite a few drawbacks with inboards - they are more complex, significantly heavier and take up valuable space inside the boat.

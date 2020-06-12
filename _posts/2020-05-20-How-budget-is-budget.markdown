@@ -38,6 +38,6 @@ I looked at classified ads on eBay and Gumtree, as well as brokerage boats. I pu
 
 ![Fletcher Arrowhawk 180 bow rider](/budget-boating/images/fletcher.jpg)
 
-I ended up buying a Fletcher Arrowhawk 180 from a private seller - a retired guy who bought and sold Fletchers. Despite being nearly 30 years old, it had a brand new roller trailer with a receipt for £2,500 and some service history with the outboard. Best of all it had been used as a ski boat on fresh water, and had numerous upgrades including a new fuel system (tank, pipes, water separating filter) and refurbished interior. It's a rare *bow rider* model - a style which is much more common in modern boats.
+I ended up buying a Fletcher Arrowhawk 180 from a private seller - a retired guy who bought and sold Fletchers. Despite being nearly 30 years old, it came on a brand new rollercoaster trailer with a receipt for £2,500 and some service history with the outboard. Best of all it had been used as a ski boat on fresh water, and had numerous upgrades including a new fuel system (tank, pipes, water separating filter) and refurbished interior. It's a rare *bow rider* model - a style which is much more common in modern boats.
 
 After purchase I discovered a water leak in the outboard that cost £250 to repair. This was my own fault as I didn't inspect the outboard properly or know what problems to look out for.
