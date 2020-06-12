@@ -4,9 +4,9 @@
     {
       "type": "Feature",
       "properties": {
-        "Description": "Calshot Spit",
+        "Description": "Calshot Activities Centre",
         "marker-size": "medium",
-        "marker-symbol": "pitch",
+        "marker-symbol": "boat",
         "marker-color": "#f00"
       },
       "geometry": {
