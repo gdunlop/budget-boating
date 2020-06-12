@@ -15,9 +15,7 @@ This photo shows the centre, situated on Calshot Spit, looking south over the So
 
 ![View of Calshot Activities Centre looking south over the Solent towards the Isle of Wight](/budget-boating/images/calshot.jpg)
 
-location.json
-
-<script src="https://embed.github.com/view/geojson/gdunlop/gdunlop.github.io/budget-boating/master/location.geojson?height=400&width=500"></script>
+<script src="https://embed.github.com/view/geojson/gdunlop/budget-boating/master/location.geojson?height=400&width=500"></script>
 
 ## Background
 Before looking to buy a boat I read a fair bit to increase my knowledge, including every back issue of [Motor Boat Owner](http://www.motorboatowner.co.uk) - this is free and I can't recommend it highly enough.
