@@ -8,7 +8,7 @@ categories:
 
 ## Be prepared
 
-![Safety kit](/budget-boating/images/safety.png)
+![Safety kit]({{site.baseurl}}/images/safety.png)
 
 For a small boat used in sheltered waters the following equipment is a sensible starting point:-
 - Main key with kill cord
@@ -39,7 +39,7 @@ Have a dry bag packed with the following kit:-
 ## Toolkit
 A modest toolkit and basic spares may get you home without having to call for help.
 
-![Essential tools](/budget-boating/images/tools.png)
+![Essential tools]({{site.baseurl}}/images/tools.png)
 
 My toolkit contains:-
 - Socket set including spark plug remover

@@ -13,7 +13,7 @@ Estimating consumption is difficult as there are many variables. Sea state, hull
 
 That said, the main factor is engine revs - the higher the revs the more fuel the engine will burn. A graph from *This is Motor Boating* illustrates this clearly:
 
-![Graph of fuel consumption vs engine revs](/budget-boating/images/fuel.jpg)
+![Graph of fuel consumption vs engine revs]({{site.baseurl}}/images/fuel.jpg)
 
 At 100% engine revs - usually referred to as *Wide Open Throttle (WOT)* - fuel consumption is at its highest. Reduce revs to around 70% of maximum and fuel consumption is halved.
 

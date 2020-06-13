@@ -27,7 +27,7 @@ Boat brokers and specialist boating sites are another option. Brokers sell boats
 
 ## Beware the project boat
 
-![Project boat](/budget-boating/images/project.png)
+![Project boat]({{site.baseurl}}/images/project.png)
 
 Front gardens and boat yards across the country are littered with project boats. Probably bought at auction with the best of intentions, they may have been sitting unloved for years. Alternatively they've become a money pit for the current owner but just need "a few little things" to finish off. That may include small things such as installing a new engine...
 
@@ -36,7 +36,7 @@ Avoid project boats *unless* you find a very good example that you are prepared 
 ## My personal experience
 I looked at classified ads on eBay and Gumtree, as well as brokerage boats. I put a 10% deposit on a brokerage boat in the North of England, but unfortunately I made the mistake of paying this directly to the owner via a 'friends and family' payment. When it became apparent there were some issues with the engine I pulled out but the seller refused to return even a portion of the deposit. Caveat emptor...
 
-![Fletcher Arrowhawk 180 bow rider](/budget-boating/images/fletcher.jpg)
+![Fletcher Arrowhawk 180 bow rider]({{site.baseurl}}/images/fletcher.jpg)
 
 I ended up buying a Fletcher Arrowhawk 180 from a private seller - a retired guy who bought and sold Fletchers. Despite being nearly 30 years old, it came on a brand new rollercoaster trailer with a receipt for £2,500 and some service history with the outboard. Best of all it had been used as a ski boat on fresh water, and had numerous upgrades including a new fuel system (tank, pipes, water separating filter) and refurbished interior. It's a rare *bow rider* model - a style which is much more common in modern boats.
 

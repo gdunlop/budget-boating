@@ -13,7 +13,7 @@ Outboards draw in water through the leg to cool the engine and have a hydraulic 
 
 These days most outboards are 4-stroke petrol - they have valve timing gear, cambelts and a wet sump like a modern car engine. Many 2-stroke outboards are still around but there are few manufacturers of new 2-strokes. Special 2-stroke oil needs to be mixed with petrol to provide lubrication, but 'oil injection' systems on some outboards do this automatically from a remote tank.
 
-![Mercury outboard engine](/budget-boating/images/outboard.png)
+![Mercury outboard engine]({{site.baseurl}}/images/outboard.png)
 
 Many older 2-stroke outboards are still in service - they have a reputation for longevity if looked after. My boat has a 1992 Mercury Blackmax - a 2.5 litre V6 2-stroke with oil injection. It has carbs rather than fuel injection and is rated at 150 horsepower.
 
@@ -25,12 +25,12 @@ Pros associated with outboards:-
 - Easy to maintain (especially 2-strokes)
 - Don't take up space inside the boat
 
-Outboards are prone to theft so make sure you fit a good outboard lock.
+Outboards are prone to theft so make sure you [fit a good outboard lock]({{site.baseurl}}/Boat-insurance).
 
 ## Inboard engines
 These are installed inside the boat and they can take up quite a lot of space. They connect to a sterndrive or outdrive housing the propeller and tilt and trim mechanism. Mechanically, this is a lot more complex than an outboard, and the maintenance costs are therefore likely to be higher.
 
-![Sterndrive unit on an inboard powered boat](/budget-boating/images/sterndrive.jpg)
+![Sterndrive unit on an inboard powered boat]({{site.baseurl}}/images/sterndrive.jpg)
 
 Inboard engines are often petrol or diesel car engines adapted for marine use. Cooling is provided directly via water drawn through the sterndrive - *raw water cooling* - or indirectly by including a heat exchanger in the cooling circuit. Exhaust is either fed via the sterndrive and exits through the prop like an outboard, or uses through-hull exhaust pipes.
 
@@ -43,7 +43,7 @@ Pros associated with inboards:-
 ## One lump or two?
 You will see US boats fitted with three, four, or even five huge outboards. Cheaper fuel is one reason for this along with the trend for outboards on bigger and bigger boats.
 
-![Quad outboard engines](/budget-boating/images/quad-power.jpg)
+![Quad outboard engines]({{site.baseurl}}/images/quad-power.jpg)
 
 Do you need more than one engine? As a budget boater I would say you certainly do not.
 

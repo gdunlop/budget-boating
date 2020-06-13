@@ -6,7 +6,7 @@ categories:
 ---
 *It's wise to think about boat storage before you purchase a boat, as storage costs on or off the water can quickly add up.*
 
-![Dry stack](/budget-boating/images/stack.png)
+![Dry stack]({{site.baseurl}}/images/stack.png)
 
 ## Storage options
 You can buy a very decent budget boat for £5,000 or less. Choose to berth in a marina and you could end up paying that amount again *every year* just to store it. That's before any other costs are taken into consideration.
@@ -48,7 +48,7 @@ A marina berth or mooring means you can 'park and ride'. Dry stacks provide the 
 
 Smaller boats are relatively easy to launch and recover from a trailer but this does need practice. Many slipways are busy so you need to launch as quickly as possible and park your trailer out of the way.
 
-![Slipway with adjacent pontoon](/budget-boating/images/slipway.jpg)
+![Slipway with adjacent pontoon]({{site.baseurl}}/images/slipway.jpg)
 
 Find a quiet slipway like this with an adjacent pontoon. This makes the process of launching and retrieval quite simple even if you are on your own. Another pair of hands always makes things easier.
 

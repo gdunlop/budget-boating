@@ -14,13 +14,13 @@ Note that you are responsible for the wake you generate, which is more of an iss
 # Securing a trailer
 Insurers will want to see a trailer secured with a hitch lock and a wheel lock. These are easy enough to find on eBay or Gumtree. I paid £20 for the hitch lock and £30 for the wheel lock:
 
-![Trailer hitch lock](/budget-boating/images/hitch.png)
-![Trailer wheel lock](/budget-boating/images/wheel.png)
+![Trailer hitch lock]({{site.baseurl}}/images/hitch.png)
+![Trailer wheel lock]({{site.baseurl}}/images/wheel.png)
 
 # Securing an outboard
 Outboards also need to be secured with a dedicated lock. This 'volcano' style prevents the mounting point being attacked with a pry bar or bolt cutters. Expect to pay £50-£75 for a brand new lock like this:
 
-![Outboard lock](/budget-boating/images/volcano.jpg)
+![Outboard lock]({{site.baseurl}}/images/volcano.jpg)
 
 # Budget boat insurance
 There are specialist insurers dealing with boats so it pays to shop around. Some only operate online so will be a bit cheaper. Premiums are calculated based on boat length, maximum speed and insured value.

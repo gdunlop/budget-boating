@@ -13,7 +13,7 @@ I got interested in boating through spending a lot of time at [Calshot Activitie
 
 This photo shows the centre, situated on Calshot Spit, looking south over the Solent towards Cowes on the Isle of Wight.
 
-![View of Calshot Activities Centre looking south over the Solent towards the Isle of Wight](/budget-boating/images/calshot.jpg)
+![View of Calshot Activities Centre]({{site.baseurl}}/images/calshot.jpg)
 
 <!--script src="https://embed.github.com/view/geojson/gdunlop/budget-boating/master/location.geojson?height=400&width=500"></script-->
 
@@ -22,7 +22,7 @@ Before looking to buy a boat I read a fair bit to increase my knowledge, includi
 
 My local Oxfam book shop has also been a great resource, turning up a variety of books on navigation and motorboats.
 
-![Budget boating books](/budget-boating/images/boating-books.jpg)
+![Budget boating books]({{site.baseurl}}/images/boating-books.jpg)
 
 ## Training
 Friends and colleagues recommended getting some training, so I enrolled on a [RYA Powerboat Level 2](https://www.rya.org.uk/courses-training/courses/powerboat/Pages/level-2.aspx) course with [Technical Recreational Coaching](https://www.technical-recreational-coaching.co.uk).
