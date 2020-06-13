@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is a blog about budget boating, with a focus on powerboats as opposed to sail.
+This blog documents what I have learned getting into powerboating on a modest budget.
