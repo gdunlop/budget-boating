@@ -54,6 +54,6 @@ Why do so many boats have twin engines? Boats above 24ft typically need a lot of
 Twin engines mean you can still get home if one engine fails, but unless you keep both engines well maintained you are more likely to experience a breakdown at some point. If you are worried about this in a smaller boat you can mount an auxiliary outboard bracket and carry a small backup outboard.
 
 ## Budget option
-For budget boats in the 14-20ft range a single outboard is more than adequate. A well-maintained 2-stroke will be relatively cheap to maintain, though they do consume more fuel than an equivalent 4-stroke. As they are likely to be older, sourcing spare parts for a 2-stroke may be an issue.
+For budget boats in the 14-20ft range a single outboard is more than adequate. A well-maintained 2-stroke will be relatively cheap to maintain, though they do [consume more fuel]({{site.baseurl}}/Fuel-consumption) than an equivalent 4-stroke. As they are likely to be older, sourcing spare parts for a 2-stroke may be an issue.
 
 For the budget boater there are quite a few drawbacks with inboards - they are more complex, significantly heavier and take up valuable space inside the boat. If you are tempted by a boat with an inboard engine, make sure you add up the maintenance costs for the engine and sterndrive.

@@ -17,7 +17,7 @@ That said, the main factor is engine revs - the higher the revs the more fuel th
 
 At 100% engine revs - usually referred to as *Wide Open Throttle (WOT)* - fuel consumption is at its highest. Reduce revs to around 70% of maximum and fuel consumption is halved.
 
-The book also provides a simple formula to estimate fuel consumption at WOT.
+The book also provides a simple formula to estimate fuel consumption at WOT for boats with a planing hull.
 
 ## Estimating consumption
 Take the rated engine output in horsepower and apply the multiplier below to estimate fuel consumption in *litres per hour at wide open throttle (WOT)*
@@ -30,7 +30,7 @@ Take the rated engine output in horsepower and apply the multiplier below to est
 | Diesel direct injection | 0.2 |
 
 
-So, for my 2-stroke outboard rated at 150HP it's 150 * 0.4 = 60 litres per hour. I've not measured my actual consumption but I think this is in the right ballpark.
+So, for my 2-stroke outboard rated at 150HP it's 150 * 0.4 = 60 litres per hour at WOT. I seldom run anywhere near maximum revs so typical consumption is more like 20-30 litres per hour running at around 25 knots.
 
 ## Reference
 *This is Motor Boating*, Ramon Gliewe. Adlard Coles Nautical (1992). ISBN 0713634588
