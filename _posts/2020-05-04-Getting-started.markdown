@@ -28,7 +28,7 @@ YouTube is a great place to find out about boat handling, engine maintenance and
 A few of my personal favourites:-
 
 ### [Dangar Marine](https://www.youtube.com/user/DangarMarine)
-Loads of videos from 'Dangar Stu' based on Dangar Island on the Hawksbury River north of Sydney. He covers maintenance, handling, ropework and lots more. This is a treasure trove for the budget boater covering a lot of outboard engine troubleshooting and maintenance.
+Loads of videos from 'Dangar Stu' based on Dangar Island on the Hawkesbury River north of Sydney. He covers maintenance, handling, ropework and lots more. This is a treasure trove for the budget boater covering a lot of outboard engine troubleshooting and maintenance.
 
 You can [become a patron of Dangar Marine](https://www.patreon.com/dangarmarine) to get insider access to existing and upcoming content.
 
