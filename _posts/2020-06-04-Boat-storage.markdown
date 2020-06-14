@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Boat storage options and costs"
-date:   2020-06-04 15:38:00 +0100
+date:   2020-05-23 15:38:00 +0100
 categories:
 ---
 *It's wise to think about boat storage before you purchase a boat, as storage costs on or off the water can quickly add up.*

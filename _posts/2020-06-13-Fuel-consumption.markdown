@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Fuel consumption"
-date:   2020-06-13 11:02:00 +0100
+date:   2020-06-08 11:02:00 +0100
 categories:
 ---
 *Tips for estimating fuel consumption*

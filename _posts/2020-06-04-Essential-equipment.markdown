@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Essential equipment"
-date:   2020-06-10 17:02:00 +0100
+date:   2020-05-30 17:02:00 +0100
 categories:
 ---
 *Advice on the essential equipment for safe boating in inshore waters*

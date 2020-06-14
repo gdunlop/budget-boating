@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Welcome to budget boating"
-date:   2020-05-18 15:38:00 +0100
+date:   2020-05-01 15:38:00 +0100
 categories:
 ---
 *A blog for anyone looking to get into powerboating on a budget*
