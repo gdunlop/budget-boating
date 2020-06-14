@@ -9,7 +9,7 @@ categories:
 ## Dip your toe in the water
 If you know someone with a boat see if you can wrangle a day out on the water. This is a great way to experience powerboating first hand to see if you enjoy it.
 
-Another great option is to go on a training course. RYA has designed a series of training courses for power vessels, including [RYA Powerboat Level 2](https://www.rya.org.uk/courses-training/courses/powerboat/Pages/level-2.aspx). This is a popular 2-day course with a lot of time spent out on the water. It includes some classroom work as well, covering the basics of navigation, passage planning and safety.
+Another great option is to go on a training course. The Royal Yachting Association (RYA) has designed a series of training courses for power vessels, including [RYA Powerboat Handling Level 2](https://www.rya.org.uk/courses-training/courses/powerboat/Pages/level-2.aspx). This is a popular 2-day course with a lot of time spent out on the water. It includes some classroom work as well, covering the basics of navigation, passage planning and safety.
 
 ![Powerboat training]({{site.baseurl}}/images/training.jpg)
 
