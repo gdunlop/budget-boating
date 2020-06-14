@@ -28,7 +28,7 @@ YouTube is a great place to find out about boat handling, engine maintenance and
 A few of my personal favourites:-
 
 ### [Dangar Marine](https://www.youtube.com/user/DangarMarine)
-Loads of videos from 'Dangar Stu' based on Dangar Island on the Hawksbury River north of Sydney. He covers maintenance, handling, ropework and lots more. This is a treasure trove for the budget boater, especially everything on 2-strokes.
+Loads of videos from 'Dangar Stu' based on Dangar Island on the Hawksbury River north of Sydney. He covers maintenance, handling, ropework and lots more. This is a treasure trove for the budget boater covering a lot of outboard engine troubleshooting and maintenance.
 
 You can [become a patron of Dangar Marine](https://www.patreon.com/dangarmarine) to get insider access to existing and upcoming content.
 
@@ -36,6 +36,6 @@ You can [become a patron of Dangar Marine](https://www.patreon.com/dangarmarine)
 Run by a professional boat mechanic this channel is more US-centric covering bigger boats and engines, but still has lots of useful information about boat restoration and engine maintenance.
 
 ### [Tom Cunliffe](https://www.tomcunliffe.com)
-Tom is a sailor, writer and TV presenter. His YouTube channel - the aptly named [Yacht and Yarms](https://www.youtube.com/channel/UCrgLfFlVsszE1JSzYCmj9Yg) - mixes maritime history, trips near and far, and general boating advice.
+Tom is a sailor, writer and TV presenter. His YouTube channel - the aptly named [Yachts and Yarns](https://www.youtube.com/channel/UCrgLfFlVsszE1JSzYCmj9Yg) - mixes maritime history, sailing trips, and practical advice covering many aspects of boating.
 
-He recently launched a [membership scheme](https://www.tomcunliffe.com/product/tom-cunliffe-membership/) giving access to a monthly newsletter, new content and other benefits. A subscription costs £30 a year, but if you grab one before the end of June 2020 you can get 50% off.
+Tom recently launched a [membership scheme](https://www.tomcunliffe.com/product/tom-cunliffe-membership/) giving access to a monthly newsletter, new content and other benefits. A subscription costs £30 a year, but if you grab one before the end of June 2020 you can get 50% off.
