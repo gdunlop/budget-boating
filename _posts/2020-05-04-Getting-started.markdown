@@ -27,15 +27,20 @@ YouTube is a great place to find out about boat handling, engine maintenance and
 
 A few of my personal favourites:-
 
-### [Dangar Marine](https://www.youtube.com/user/DangarMarine)
-Loads of videos from 'Dangar Stu' based on Dangar Island on the Hawkesbury River north of Sydney. He covers maintenance, handling, ropework and lots more. This is a treasure trove for the budget boater covering a lot of outboard engine troubleshooting and maintenance.
+### Dangar Marine
+Dangar Stu is based on Dangar Island on the Hawkesbury River north of Sydney. [Dangar Marine](https://www.youtube.com/user/DangarMarine) covers boat restoration, maintenance, ropework and lots more. This is a treasure trove for the budget boater - especially on engine troubleshooting and maintenance.
 
 You can [become a patron of Dangar Marine](https://www.patreon.com/dangarmarine) to get insider access to existing and upcoming content.
 
-### [Born Again Boating](https://www.youtube.com/channel/UCWZhbfXDCg7_PvlwvierP1A)
-Run by a professional boat mechanic this channel is more US-centric covering bigger boats and engines, but still has lots of useful information about boat restoration and engine maintenance.
+### Born Again Boating
+Run by a professional boat mechanic [Born Again Boating](https://www.youtube.com/channel/UCWZhbfXDCg7_PvlwvierP1A) is more US-centric covering bigger boats and engines, but still has lots of useful information about boat restoration and engine maintenance.
 
-### [Tom Cunliffe](https://www.tomcunliffe.com)
+### Harry Dwyer
+Harry is an "enthusiastic doer of fun stuff," including [restoring a tiny speedboat](https://www.youtube.com/playlist?list=PLI9wxSG-v3nNsRis8S9x1PG32ookSSv5h).
+
+Now it's restored and on the water Harry and friends are using it to travel [1700 miles around Great Britain](https://www.youtube.com/playlist?list=PLI9wxSG-v3nM5TN7llb19jNnh8JUpmRe4). Very polished production with excellent drone footage and music.
+
+### Tom Cunliffe
 Tom is a sailor, writer and TV presenter. His YouTube channel - the aptly named [Yachts and Yarns](https://www.youtube.com/channel/UCrgLfFlVsszE1JSzYCmj9Yg) - mixes maritime history, sailing trips, and practical advice covering many aspects of boating.
 
 Tom recently launched a [membership scheme](https://www.tomcunliffe.com/product/tom-cunliffe-membership/) giving access to a monthly newsletter, new content and other benefits. A subscription costs £30 a year, but if you grab one before the end of June 2020 you can get 50% off.
