@@ -7,13 +7,9 @@ categories:
 *Decide what type of boat you want and set a realistic budget*
 
 ## Setting a budget
-Everyone will have a different view of what "budget" means. You can find boats for a few hundred pounds, but at this price point don't expect something that is safe and ready for the water.
+Everyone will have a different view of what "budget" means. You can find boats for a few hundred pounds, but at this price point don't expect something that is safe and ready for the water. For around £2,500 you may find a 14-15ft speedboat on a trailer and this is really the base price for something decent, though it may require some tidying up or other jobs.
 
-Around £2,500 can get you a 14-15ft speedboat on a trailer and this is really the base price for something decent, though it may require some tidying up or other jobs.
-
-Personally, I set a budget of £5,000 for my first boat including a roadworthy trailer. For this amount you can find something in the 16-20ft range with service history and perhaps some recent upgrades or improvements.
-
-You can obviously spend a lot more than this to get a newer or bigger boat but that would be stretching the budget part of 'budget boating'.
+Personally, I set a budget of £5,000 for my first boat including a roadworthy trailer. For this amount you can find something in the 16-20ft range with service history and perhaps some recent upgrades or improvements. You can obviously spend a lot more than this to get a newer or bigger boat but that would be stretching the budget part of 'budget boating'.
 
 ## New or used?
 Needless to say given this budget you will be looking at used boats.
@@ -38,6 +34,6 @@ I looked at classified ads on eBay and Gumtree, as well as brokerage boats. I pu
 
 ![Fletcher Arrowhawk 180 bow rider]({{site.baseurl}}/images/fletcher.jpg)
 
-I ended up buying a Fletcher Arrowhawk 180 from a private seller - a retired guy who bought and sold Fletchers. Despite being nearly 30 years old, it came on a brand new rollercoaster trailer with a receipt for £2,500 and some service history with the outboard. Best of all it had been used as a ski boat on fresh water, and had numerous upgrades including a new fuel system (tank, pipes, water separating filter) and refurbished interior. It's a rare *bow rider* model - a style which is much more common in modern boats.
+I ended up buying a Fletcher Arrowhawk 180 from a private seller - a retired guy who bought and sold Fletchers. Although nearly 30 years old, it was on a brand new rollercoaster trailer with a receipt for £2,500 along with recent service history for the outboard. Best of all it had been used as a ski boat on fresh water so had little or no use in salt water. It's a rare *bow rider* model - a style which is much more common in modern boats.
 
 After purchase I discovered a water leak in the outboard that cost £250 to repair. This was my own fault as I didn't inspect the outboard properly or know what problems to look out for.

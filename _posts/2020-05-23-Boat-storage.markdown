@@ -9,7 +9,7 @@ categories:
 ![Dry stack]({{site.baseurl}}/images/stack.png)
 
 ## Storage options
-You can buy a very decent budget boat for £5,000 or less. Choose to berth in a marina and you could end up paying that amount again *every year* just to store it. That's before any other costs are taken into consideration.
+You can buy a very decent budget boat on a trailer for £5,000 or less. Choose to berth in a marina and you could end up paying that amount again *every year* just to store it. That's before any other costs are taken into consideration.
 
 So it pays to look at various storage options and pick one that satisfies your requirements and your budget. Since we're talking about budget boating it's likely you will be looking at boats that fit on a trailer which increases the number of options:-
 
@@ -50,7 +50,7 @@ Smaller boats are relatively easy to launch and recover from a trailer but this 
 
 ![Slipway with adjacent pontoon]({{site.baseurl}}/images/slipway.jpg)
 
-Find a quiet slipway like this with an adjacent pontoon. This makes the process of launching and retrieval quite simple even if you are on your own. Another pair of hands always makes things easier.
+Find a quiet slipway like this with an adjacent pontoon, so you can tie up the boat easily as soon as it floats off the trailer.
 
 ## Budget option
 Boat parks give you quick access to the water and facilities and remove the need to tow back and forth from home. Launching and recovery from a trailer is still needed of course but this is a good skill to practice.

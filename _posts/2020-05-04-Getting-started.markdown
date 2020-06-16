@@ -13,7 +13,7 @@ Another great option is to go on a training course. The Royal Yachting Associati
 
 ![Powerboat training]({{site.baseurl}}/images/training.jpg)
 
-I completed my Level 2 course with [Technical Recreational Coaching](https://www.technical-recreational-coaching.co.uk) in Southampton and highly recommend them. I also used them to obtain a [marine radio qualification](https://www.rya.org.uk/courses-training/courses/specialist/Pages/src.aspx) which is required to operate a fixed or handheld VHF radio.  
+I completed my Level 2 course with [Technical Recreational Coaching](https://www.technical-recreational-coaching.co.uk) in Southampton and highly recommend them. I also used them to obtain a [marine radio qualification](https://www.rya.org.uk/courses-training/courses/specialist/Pages/src.aspx) which is required to operate a fixed or handheld VHF radio.
 
 ## Budget boating books
 Before looking to buy a boat I read a fair bit to increase my knowledge, including back issues from [Motor Boat Owner](http://www.motorboatowner.co.uk) - this is free and I can't recommend it highly enough.
