@@ -63,7 +63,11 @@ The interior of my boat pictured below certainly looks nice, though all the cove
 
 ## Engine and steering
 
+To-do
+
 ## Electrics
+
+To-do
 
 ## Trailers
 You can tell a lot about a trailer from its overall visual appearance. The main frame and fixings should be rust free and the wheels should look in good order. Well known brands include Extreme Trailers, Indespension, SBS and De Graff.
