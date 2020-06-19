@@ -31,9 +31,9 @@ My boat (top image) has an older style V-profile with pronounced chines. This lo
 # Wet Wet Wet
 Older speedboats like mine may have a carpeted interior. This looks nice but isn't particularly practical as you need to keep it dry.
 
-If you are leaving a boat unattended on the water it really must be self-bailing otherwise it could fill with rainwater. Self-bailing cockpits drain water from the interior out the side of the boat. All RIBs are self-bailing since their low profile means they are more likely to take on water.
-
 ![Speedboat with carpeted interior]({{site.baseurl}}/images/interior.jpg)
+
+If you are leaving a boat unattended on the water it really must be self-bailing otherwise it could fill with rainwater. Self-bailing cockpits drain water from the interior out the side of the boat. RIBs are prone to taking on water and tend to have automatic float-operated pumps to discharge it out through the transom.
 
 # Style council
 When it comes to shape and style of boat this is very much down to personal preference.
