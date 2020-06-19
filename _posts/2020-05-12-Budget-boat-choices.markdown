@@ -13,6 +13,7 @@ There are many factors to consider when you start looking for a budget boat:-
 - What type of hull profile?
 - How many passengers do you need to accommodate?
 - Where will you store it and launch it?
+- Will it be left unattended on the water?
 
 Some of these topics are quite involved and are covered in separate posts:-
 
@@ -26,6 +27,13 @@ Hull shape is important as this can have a big effect on comfort and handling.
 My boat (top image) has an older style V-profile with pronounced chines. This looks sleek and makes for exciting cornering but results in a hard ride - the concave shape is less effective at pushing water out of the way. Contrast this with a more modern "deep V" hull with a convex profile (bottom image). This pushes water out of the way making for softer landings.
 
 ![Concave hull profile with pronounced chines]({{site.baseurl}}/images/concave.png) ![Deep V hull with convex profile]({{site.baseurl}}/images/convex.png)
+
+# Wet Wet Wet
+Older speedboats like mine may have a carpeted interior. This looks nice but isn't particularly practical as you need to keep it dry.
+
+If you are leaving a boat unattended on the water it really must be self-bailing otherwise it could fill with rainwater. Self-bailing cockpits drain water from the interior out the side of the boat. All RIBs are self-bailing since their low profile means they are more likely to take on water.
+
+![Speedboat with carpeted interior]({{site.baseurl}}/images/interior.jpg)
 
 # Style council
 When it comes to shape and style of boat this is very much down to personal preference.
