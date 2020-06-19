@@ -68,7 +68,7 @@ Steering is the most safety-critical system on boat so this needs particular att
 
 ![Steering attachment on an outboard]({{site.baseurl}}/images/steering.jpg)
 
-There is usually a single nut securing the link rod, and if this becomes attached the whole outboard can swing freely from side to side. If this happens at speed the consequences could be fatal.
+There is usually a single nyloc nut securing the link rod. If this becomes detached the whole outboard can swing freely from side to side. If this happens at speed the consequences could be fatal.
 
 **Checks**
 - Take the outboard top cover off and inspect the general condition of the engine. It should be rust-free with tidy wiring and no obvious signs of salt deposits.
