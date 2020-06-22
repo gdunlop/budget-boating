@@ -7,14 +7,22 @@ categories:
 *Decide what type of boat you want and set a realistic budget*
 
 ## Setting a budget
-Everyone will have a different view of what "budget" means. You can find boats for a few hundred pounds, but at this price point don't expect something that is safe and ready for the water. For around £2,500 you may find a 14-15ft speedboat on a trailer and this is really the base price for something decent, though it may require some tidying up or other jobs.
+Everyone will have a different view of what "budget" means. You can find boats for a few hundred pounds, but at this price point don't expect something that is safe and ready for the water.
 
-Personally, I set a budget of £5,000 for my first boat including a roadworthy trailer. For this amount you can find something in the 16-20ft range with service history and perhaps some recent upgrades or improvements. You can obviously spend a lot more than this to get a newer or bigger boat but that would be stretching the budget part of 'budget boating'.
+For less than £2,500 the options are quite limited but you can find older speedboats around 14-15ft. Increasing the budget to £5,000 you can expect to find more variety and at this price a decent trailer should be included. Stretching the budget even further up to £10,000 will tap into bigger, newer boats with good service history.
 
-## New or used?
-Needless to say given this budget you will be looking at used boats.
+It's tempting to look for cheaper boats that need a bit of work, but avoid this unless you are very confident about the effort and costs involved. A better approach is to set a realistic maximum budget and find the best boat for the money that satisfies your requirements.
 
-Don't be afraid of looking at older boats. If they have been well looked after ideally by one owner you can get a lot for your money.
+## Buying used
+Needless to say given this budget you will be looking at used boats. Don't be afraid of looking at boats that are up to 30 years old - if they have been well looked after ideally by one owner you can get a lot for your money.
+
+## Shared ownership
+This option is becoming more popular, especially in popular boating areas. It usually involves buying into a syndicate with a one-off payment plus ongoing monthly costs. Since you are buying a share, your budget will get you a bigger or newer boat, so long as you are happy with sharing access and use.
+
+At time of writing this, I found a quarter share in a 6.75m RIB kept in a marina for £5,750 plus £90 per month.
+
+## Join the club
+If you prefer a fixed monthly cost with no upfront investment then a boat club may be suitable. Typically these provide access to a fleet of different boats starting from around £300 per month. Pay more and you'll get access to more boats, and more flexible use including overnight trips. If you don't want to own a boat this is good option, but I would hesitate to call it a budget option - the costs stack up fairly rapidly.
 
 ## Where to find budget boats
 I recommend looking at classified ads where the owner is likely to have given a realistic asking price. Avoid auctions as it's just too easy to get caught in a bidding war.
