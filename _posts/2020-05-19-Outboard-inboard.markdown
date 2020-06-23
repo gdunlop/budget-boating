@@ -53,6 +53,13 @@ Why do so many boats have twin engines? Boats above 24ft typically need a lot of
 
 Twin engines mean you can still get home if one engine fails, but unless you keep both engines well maintained you are more likely to experience a breakdown at some point. If you are worried about this in a smaller boat you can mount an auxiliary outboard bracket and carry a small backup outboard.
 
+## Winter is coming
+In our climate boats usually need to be winterised at the end of the season (Oct/Nov) and then put back in commission after winter.
+
+Winterising is easy if you have an outboard powered boat on a trailer. Just make sure the outboard is vertical so all the water drains out, treat any fuel left in the tank and stick the battery on a trickle charge. Some modern outboards can winterise and de-winterise themselves at the touch of a button.
+
+Things are more complicated with an inboard. You need to make sure there is no chance of any water in the engine block freezing in cold temperatures. This can cause the engine block or the head to crack and you will be looking at a new engine. Winterising an inboard engine usually involves isolating the cooling circuit and filling it with a coolant mixture.
+
 ## Budget option
 For budget boats in the 14-20ft range a single outboard is more than adequate. A well-maintained 2-stroke will be relatively cheap to maintain, though they do [consume more fuel]({{site.baseurl}}/Fuel-consumption) than an equivalent 4-stroke. As they are likely to be older, sourcing spare parts for a 2-stroke may be an issue.
 
