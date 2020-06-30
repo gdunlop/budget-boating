@@ -1,0 +1,32 @@
+---
+layout: page
+title:  "Annual running costs"
+date:   2021-06-28 08:50:00 +0100
+categories:
+---
+*Full breakdown of annual running costs for the budget boater*
+
+### Recap
+Previous posts have mentioned some of the costs involved running a boat including [storage]({{site.baseurl}}/Boat-storage) and [insurance]({{site.baseurl}}/Boat-insurance).
+
+### Annual costs
+The table below lists the main annual costs for running my 18ft trailerable speedboat.
+
+To provide a point of comparison, I've also included the costs for running a larger 26ft sportscruiser. These are from a recent video by Nick Burnham a.k.a [Aquaholic](https://www.youtube.com/watch?v=YQ8kxp_I7o0).
+
+| Description | Budget Boat | Comparison |
+| ----- | ----- | ----- |
+| Boat storage | £360 | £2,500 |
+| ----- | ----- | ----- |
+| Insurance | £140 | £400 |
+| ----- | ----- | ----- |
+| Annual lift | - | £400 |
+| ----- | ----- | ----- |
+| Anti-foul paint | - | £150 |
+| ----- | ----- | ----- |
+| Anodes | - | £100 |
+| ----- | ----- | ----- |
+| Servicing | £200 | £1,300 |
+| ----- | ----- | ----- |
+| Seastart | £150 | £150 |
+| **Total per annum** | £850 | £5,000 |

@@ -15,3 +15,5 @@ This photo shows the centre, situated on Calshot Spit, looking south over the So
 This blog documents my own experience [getting started]({{site.baseurl}}/Getting-started) with powerboating. Like most pastimes, it can be done on a modest budget if you're aware of all the costs and how they can be reduced or avoided altogether.
 
 I hope you find it useful. Safe boating!
+
+Show [all blog posts]({{site.baseurl}}/).

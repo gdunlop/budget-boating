@@ -9,6 +9,8 @@ categories:
 ## Where to find budget boats
 I recommend looking at classified ads where the owner is likely to have given a realistic asking price. Avoid auctions as it's just too easy to get caught in a bidding war.
 
+![Boat listings on auction site]({{site.baseurl}}/images/adverts.png)
+
 Boat brokers and specialist boating sites are another option. Brokers sell boats on behalf of a customer - brokerage boats - and may also have trade-ins. Older boats or those with no service history will often be *sold as seen* with no warranty, so you need to check very carefully before parting with your cash.
 
 ## Beware the project boat
@@ -16,7 +18,7 @@ Front gardens and boat yards across the country are littered with project boats.
 
 ![Project boat]({{site.baseurl}}/images/project.png)
 
-Avoid project boats *unless* you find a good example and you factor all the parts and work required into the total cost. In almost all cases you will be better off spending that amount on a boat that can be used immediately. 
+Avoid project boats *unless* you find a good example and you factor all the parts and work required into the total cost. In almost all cases you will be better off spending that amount on a boat that can be used immediately.
 
 ## My personal experience
 I looked at classified ads on eBay and Gumtree as well as brokerage boats. A broker passed me on to a friend of his who had a Bayliner for sale in the North of England, and I ended up paying a 10% deposit. Unfortunately I made the mistake of paying this directly via a 'friends and family' payment.
