@@ -1,10 +1,10 @@
 ---
 layout: page
 title:  "Annual running costs"
-date:   2021-06-28 08:50:00 +0100
+date:   2020-06-28 08:50:00 +0100
 categories:
 ---
-*Full breakdown of annual running costs for the budget boater*
+*Full breakdown of annual running costs for a buget boat*
 
 ### Recap
 Previous posts have mentioned some of the costs involved running a boat including [storage]({{site.baseurl}}/Boat-storage) and [insurance]({{site.baseurl}}/Boat-insurance).
@@ -14,9 +14,11 @@ The table below lists the main annual costs for running my 18ft trailerable spee
 
 To provide a point of comparison, I've also included the costs for running a larger 26ft sportscruiser. These are from a recent video by Nick Burnham a.k.a [Aquaholic](https://www.youtube.com/watch?v=YQ8kxp_I7o0).
 
+Fuel costs obviously need to be added to this but will vary a lot depending on usage.
+
 | Description | Budget Boat | Comparison |
 | ----- | ----- | ----- |
-| Boat storage | £360 | £2,500 |
+| Berthing/storage | £360 | £2,500 |
 | ----- | ----- | ----- |
 | Insurance | £140 | £400 |
 | ----- | ----- | ----- |
@@ -26,7 +28,12 @@ To provide a point of comparison, I've also included the costs for running a lar
 | ----- | ----- | ----- |
 | Anodes | - | £100 |
 | ----- | ----- | ----- |
-| Servicing | £200 | £1,300 |
+| Servicing | £250 | £1,300 |
 | ----- | ----- | ----- |
-| Seastart | £150 | £150 |
-| **Total per annum** | £850 | £5,000 |
+| Seastart | - | £150 |
+| **Total per annum** | £750 | £5,000 |
+
+### Servicing costs
+My budget of £250 is enough to cover a full service every other year including replacing the impeller, fuel filters, spark plugs and gearbox oil.
+
+Servicing an inboard engine is anything from £500 per engine and may be double this amount if you use an authorised dealer. Sterndrive units also need servicing every other year at an additional £500 per unit. You can half these costs if buy the parts and do the work yourself.
