@@ -26,8 +26,10 @@ This option is becoming more popular, especially where there is a thriving boati
 At time of writing this, I found a quarter share in a 6.75m RIB kept in a marina for £5,750 plus £90 per month.
 
 ## Join the club
-If you prefer a fixed monthly cost with no upfront investment then a boat club may be suitable. Clubs provide access to a fleet of different boats for a monthly subscription covering everything except fuel.
+If you prefer the idea of a fixed monthly cost with no upfront investment then a boat club may be suitable. Clubs provide access to a fleet of different boats for a flat fee covering everything except fuel.
 
-The entry level price *(June 2020)* seems to be around £350 per month but this typically equates to only 12 days use a year. If you want more days or access to additional boats you pay more each month - anything up to £900.
+Although boat clubs often quote monthly costs you generally have to commit to a 12 month membership, and there will be penalties if you want to leave early. Some clubs offer a 1 month 'zero commitment' trial to help you decide if an annual membership is worth it.
 
-If you don't want to own a boat this may work for you but I don't consider it a budget option.
+The entry level price *(June 2020)* seems to be around £350 per month in my area. This typically equates to 12 days use of one or two boats. If you want more days or access to additional boats the monthly cost can easily exceed £1,000.
+
+Joining a boat club makes sense if you want access to a variety of different boats but I don't consider it a budget option.
