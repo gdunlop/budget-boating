@@ -20,11 +20,16 @@ Steering is the most safety-critical system on boat so this needs particular att
 
 There is usually a single nyloc nut securing the link rod. If this becomes detached the whole outboard can swing freely from side to side. If this happens at speed the consequences could be fatal.
 
+## Compression testing
+This is one of the most important checks to perform on any engine. A healthy engine will show similar compression on all cylinders. On a 2-stroke outboard the readings are typically 100-130 psi, whereas a 4-stroke may show 200 psi or more. If a cylinder differs from the others by 10% or more this indicates an issue and needs further investigation. 
+
+Check out this video on [what compression tests tell you](https://www.youtube.com/watch?v=uHcXI_cZCNQ).
+
 **Checks**
 - Take the outboard top cover off and inspect the general condition of the engine. It should be rust-free with tidy wiring and no obvious signs of salt deposits.
 - Check all hoses appear in good condition with no obvious surface damage. They should be secured neatly with jubilee clips.
 - You may get a faint whiff of petrol when the cover is removed but if the smell persists there may be a fuel leak.
-- If possible, test compression on each cylinder - the readings should be similar for each and can be as high as 130 psi on a 2-stroke.
+- Ideally do a compression test on each cylinder
 - Get the owner to do a cold start. Modern fuel-injected 4-stroke outboards should start on the button, but older 2-strokes with carbs can be harder to start. Never crank the starter for more than 10 seconds, and if it doesn't start on the third attempt it needs further investigation. If it doesn't crank at all the battery may be dead.
 - Check for a stream of water from the tell-tale. This is a small pipe usually on the underside of the main outboard cover where water exits after circulating around the engine. It may take 20-30 seconds for the engine to heat up enough to open the thermostats and start the flow. A trickle or no water at all indicate a problem with the impeller or blocked cooling channels within the powerhead. Further investigation will be needed to diagnose.
 - This is a good time to check if the dials on the dashboard are working. A rev counter and fuel gauge are the absolute minimum. You may also find gauges for water temperature, voltage, and perhaps engine trim - all good to have. Speedometers in older boats often don't work; this is not a problem as you are likely to use a GPS-equipped mobile phone or chartplotter to obtain speed.
