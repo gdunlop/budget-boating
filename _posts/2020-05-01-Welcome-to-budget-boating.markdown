@@ -4,7 +4,7 @@ title:  "Welcome to budget boating"
 date:   2020-05-01 15:38:00 +0100
 categories:
 ---
-I got interested in boating through a lot of time at spent at [Calshot Activities Centre](https://www.hants.gov.uk/thingstodo/outdoorcentres/ourcentres/calshot) where my son uses the climbing walls. The cafe has great views of Southampton Water and the Solent, and there are always boats of all shapes and sizes passing by.
+I got interested in boating after spending a lot of time at [Calshot Activities Centre](https://www.hants.gov.uk/thingstodo/outdoorcentres/ourcentres/calshot) where my son uses the climbing walls. The cafe has great views of Southampton Water and the Solent, and there are always boats of all shapes and sizes passing by.
 
 This photo shows the centre, situated on Calshot Spit, looking south over the Solent towards Cowes on the Isle of Wight.
 
