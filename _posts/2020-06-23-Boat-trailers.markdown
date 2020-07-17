@@ -18,11 +18,11 @@ You can tell a lot about a trailer from its overall visual appearance. The main 
 
 ![Boat trailer with rollers]({{site.baseurl}}/images/trailer.jpg)
 
-Avoid DIY boat trailers at all costs as they may well be illegal. You can be fined a large amount for towing an unsafe load so you **must** check the total weight of the trailer and boat is within your car's towing capacity. See the weight and width restrictions for [towing with a car](https://www.gov.uk/towing-with-car).
+Avoid DIY boat trailers at all costs as they may well be illegal. You can be fined a large amount for towing an unsafe load so you **must** check the total weight of the trailer and boat is within your car's towing capacity. See the current weight and width restrictions that apply to [towing with a car](https://www.gov.uk/towing-with-car).
 
-The boat weight should also be within the trailer's capacity but this is rather more difficult to check. My trailer is rated at 1500kg, which means the maximum combined weight of the trailer and boat must not exceed 1500kg - this is *just* inside the capacity for my tow car. The unladen trailer weighs 350kg, so the maximum boat weight is 1150kg.
+Boat weight should also be within the trailer's capacity but this is rather more difficult to check. For example my trailer is rated at 1500kg - the maximum combined weight of the trailer and boat must not exceed 1500kg. The unladen trailer weighs 350kg, so the maximum weight of boat, engine and fuel is 1150kg.
 
-If the overall tow weight is over 750kg the trailer must be braked. These can seize if the trailer is regularly used to launch in salt water and the brakes are not flushed after each use. It's illegal to tow over 750kg unless it's braked so check they've not been removed. A *flush kit* can be added so you simply hook up a hose and it flushes fresh water through the brake drums.
+If the overall tow weight (trailer plus load) is over 750kg then the trailer must be braked to be road legal. Owners often remove the brakes from boat trailers that are regularly in salt water and only used to launch and retrieve within a boat yard. This is common because drum brakes will rust quickly after exposure to salt water, which can cause them to seize. You can reduce the chance of this happening by fitting a *flush kit* - hook up a hose and flush fresh water through the hubs to get rid of the salt water.
 
 Wheel bearings are one of the main wear items on a trailer, but again these are hard to check without lifting each wheel in turn and checking for play. Ask the owner when the bearings were last serviced and budget £30-40 per wheel to replace.
 
