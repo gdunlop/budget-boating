@@ -26,3 +26,8 @@ Outboards also need to be secured with a dedicated lock. This 'volcano' style pr
 There are specialist insurers dealing with boats so it pays to shop around. Some only operate online so will be a bit cheaper. Premiums are calculated based on boat length, maximum speed and insured value.
 
 For an 18-20ft outboard powered trailer boat expect to pay in the region of £150-200 for an annual policy.
+
+# Breakdown cover
+If you are worried about breaking down - either at your berth or on a trip - it's a good idea to invest in breakdown cover.
+
+These services are usually provided by local companies that operate in a fixed area. I took out an annual policy with [Seastart](https://www.seastart.co.uk) for a shade under £150. They will come out to you if you experience a breakdown within 3 miles of land and either fix the problem or tow you somewhere safe.
