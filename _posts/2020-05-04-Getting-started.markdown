@@ -43,4 +43,4 @@ Now it's restored and on the water Harry and friends are using it to travel [170
 ### Tom Cunliffe
 Tom is a sailor, writer and TV presenter. His YouTube channel - the aptly named [Yachts and Yarns](https://www.youtube.com/channel/UCrgLfFlVsszE1JSzYCmj9Yg) - mixes maritime history, sailing trips, and practical advice covering many aspects of boating.
 
-Tom recently launched a [membership scheme](https://www.tomcunliffe.com/product/tom-cunliffe-membership/) giving access to a monthly newsletter, new content and other benefits. A subscription costs £30 a year, but if you grab one before the end of June 2020 you can get 50% off.
+There is a low cost [membership scheme](https://www.tomcunliffe.com/product/tom-cunliffe-membership/) giving access to a monthly newsletter, new content and other benefits.
