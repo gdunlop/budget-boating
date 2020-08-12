@@ -10,9 +10,9 @@ categories:
 Previous posts have mentioned several of the costs involved running a boat including [storage]({{site.baseurl}}/Boat-storage) and [insurance]({{site.baseurl}}/Boat-insurance).
 
 ### Annual costs
-The table below gives a comprehensive list of the costs for running my 18ft trailerable speedboat.
+The table below gives a comprehensive list of the annual costs of running my speedboat.
 
-To provide a point of comparison, I've also included the costs for running a larger 26ft sportscruiser kept in a marina. These are from a recent video by Nick Burnham a.k.a [Aquaholic](https://www.youtube.com/watch?v=YQ8kxp_I7o0).
+To provide a point of comparison, I've also included the costs for running a larger sportscruiser kept in a marina. These are from a recent video by Nick Burnham a.k.a [Aquaholic](https://www.youtube.com/watch?v=YQ8kxp_I7o0).
 
 Fuel costs obviously need to be added to this but will vary a lot depending on usage.
 
@@ -28,12 +28,12 @@ Fuel costs obviously need to be added to this but will vary a lot depending on u
 | ----- | ----- | ----- |
 | Anodes | - | £100 |
 | ----- | ----- | ----- |
-| Servicing | £250 | £1,300 |
+| Servicing | £125 | £1,300 |
 | ----- | ----- | ----- |
-| Seastart | - | £150 |
-| **Total per annum** | £750 | £5,000 |
+| Seastart | £145 | £150 |
+| **Total per annum** | £770 | £5,000 |
 
 ### Servicing costs
-My budget of £250 is enough to cover a full service every other year including replacing the impeller, fuel filters, spark plugs and gearbox oil.
+My budget covers a full service every other year including new impeller, fuel filters, spark plugs and gearbox oil.
 
 Servicing an inboard engine is anything from £500 per engine and may be double this amount if you use an authorised dealer. Sterndrive units also need servicing every other year at an additional £500 per unit. You can half these costs if buy the parts and do the work yourself.
