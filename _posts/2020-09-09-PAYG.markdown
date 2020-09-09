@@ -1,0 +1,21 @@
+---
+layout: page
+title:  "Pay-as-you-go RIB Hire"
+date:   2020-09-09 09:00:00 +0100
+categories:
+---
+*A new option for getting on the water on a modest budget*
+
+### Join the club
+I covered boat clubs in a [previous post]({{site.baseurl}}/How-budget-is-budget). Boat clubs provide an agreed number of days access to one or more vessels for a fixed monthly fee; the only additional cost is fuel.
+
+The downside of boat clubs is you are contractually bound to pay the monthly fees even if you're not able to use a boat during that time. For this reason I concluded it's not for those on a modest budget.
+
+### Pay as you go
+A more appealing option has been launched recently by [Urban Truant](https://www.urbantruant.co.uk). Based on the River Hamble near Southampton Water, this company offers training and tuition in sailing and powerboating.
+
+Their [RIB Club](https://www.utrib.club) allows members to access a fleet of RIBs for use in and around the Solent. To use the RIBs you must have a minimum of RYA Powerboat Level 2 and SRC/VHF marine radio certificates. Members can take the required training with Urban Truant at discounted rates if they're not already qualified.
+
+Like a PAYG mobile phone, you are not committed to a recurring monthly charge. Instead, you pay an annual membership fee of £175 then a fixed fee to use a RIB for a day or an evening. The boat is provided with a full tank of fuel and you return it the same, just like a hire car.
+
+At time of writing the cost for a full day is £150 and an evening is £75.
