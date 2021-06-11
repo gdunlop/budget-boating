@@ -10,7 +10,7 @@ categories:
 Previous posts have mentioned several of the costs involved running a boat including [storage]({{site.baseurl}}/Boat-storage) and [insurance]({{site.baseurl}}/Boat-insurance).
 
 ### Annual costs
-The table below gives a comprehensive list of the annual costs of running my speedboat.
+The table below gives a comprehensive list of the annual costs of running my speedboat. *Updated for 2021*
 
 To provide a point of comparison, I've also included the costs for running a larger sportscruiser kept in a marina. These are from a recent video by Nick Burnham a.k.a [Aquaholic](https://www.youtube.com/watch?v=YQ8kxp_I7o0).
 
@@ -18,9 +18,9 @@ Fuel costs obviously need to be added to this but will vary a lot depending on u
 
 | Description | Budget Boat | Comparison |
 | ----- | ----- | ----- |
-| Berthing/storage | £360 | £2,500 |
+| Berthing/storage | £450 | £2,500 |
 | ----- | ----- | ----- |
-| Insurance | £140 | £400 |
+| Insurance | £150 | £400 |
 | ----- | ----- | ----- |
 | Annual lift | - | £400 |
 | ----- | ----- | ----- |
@@ -28,12 +28,14 @@ Fuel costs obviously need to be added to this but will vary a lot depending on u
 | ----- | ----- | ----- |
 | Anodes | - | £100 |
 | ----- | ----- | ----- |
-| Servicing | £125 | £1,300 |
+| Servicing | £250 | £1,300 |
 | ----- | ----- | ----- |
-| Seastart | £145 | £150 |
-| **Total per annum** | £770 | £5,000 |
+| Seastart | £150 | £150 |
+| **Total per annum** | £1,000 | £5,000 |
 
 ### Servicing costs
-My budget covers a full service every other year including new impeller, fuel filters, spark plugs and gearbox oil.
+My budget covers an annual health check and basic service checking fuel system, spark plugs and gearbox oil. I replace the impeller every other year.
 
 Servicing an inboard engine is anything from £500 per engine and may be double this amount if you use an authorised dealer. Sterndrive units also need servicing every other year at an additional £500 per unit. You can half these costs if buy the parts and do the work yourself.
+
+Trailers also need regular servicing since they are in and out of salt water regularly. An annual health check is recommended to check the condition of brakes, bearings and all other moving parts. I recently had a full service carried out on my trailer. Cost of this was £280 including replacing the brake linings on both wheels.
